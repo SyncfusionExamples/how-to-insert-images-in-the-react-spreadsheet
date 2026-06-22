@@ -1,6 +1,6 @@
 # How to Insert Images in the React Spreadsheet Component  
 
-A quick-start project that shows you how to insert an image in the Syncfusion React Spreadsheet component. In this project, insert an image in a specific cell position using the image property or the insertImage method. You'll see how to change the height and width of the image by resizing it and move it to another position with drag and drop.
+A quick-start project that shows you how to insert an image in the [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) component. In this project, insert an image in a specific cell position using the image property or the insertImage method. You'll see how to change the height and width of the image by resizing it and move it to another position with drag and drop.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/spreadsheet/illustrations/#image
 
